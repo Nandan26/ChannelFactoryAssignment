@@ -29,9 +29,8 @@ To set up the project on your local machine, follow these steps:
 8. Run the development server:  
    `python manage.py runserver`
 9. Access the backend in your web browser at `http://localhost:8000`.
-
-
-10. Now navigate to the frontend directory
+    
+10. Now navigate to the frontend directory in new terminal
 11. Install all the dependancy from package.json 
     `npm i`
 12. Run the development server:
